@@ -1,7 +1,7 @@
 ### Hi I'm Rafael
 
 - 🔭 I’m only study
-- 🌱 I'm stydy kotlin and Javascript 
+- 🌱 I'm study kotlin and Javascript 
 - 😄 Pronouns: ele/dele
 <div align="center">
   <a href="https://github.com/somelleafar">
