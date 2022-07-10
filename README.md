@@ -2,7 +2,7 @@
 
 - 🔭 I’m only study
 - 🌱 I'm study kotlin and Javascript 
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 <div align="center">
   <a href="https://github.com/somelleafar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=somelleafar&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
