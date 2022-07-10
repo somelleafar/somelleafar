@@ -1,7 +1,7 @@
 ### Hi I'm Rafael
 
 - 🔭 I’m only study
-- 🌱 I'm study kotlin and Javascript 
+- 🌱 I'm study Kotlin and Javascript 
 - 😄 Pronouns: he/him
 <div align="center">
   <a href="https://github.com/somelleafar">
